@@ -1,0 +1,24 @@
+.quote {
+    font-size: 0.85em;
+    font-style: italic;
+  }
+  
+  .homePageImage {
+    width: 100%;
+  }
+  
+  .body {
+    max-width: 750px;
+  }
+  
+  .mySlides {
+    display: none;
+    width: 100%;
+  }
+  
+  .myLabels {
+    display: none;
+  }
+  .error {
+    color: red;
+  }
