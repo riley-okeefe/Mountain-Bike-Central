@@ -8,4 +8,4 @@ HTML, CSS, and w3schools CSS.
 PHP, JavaScript, MySQL, and MongoDB.
 
 ## Preview
-
+![Homepage](/screenshots/homepage.png)
